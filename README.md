@@ -58,7 +58,7 @@ Instead of writing brittle test scripts, users can provide test scenarios in pla
 ### 1. Clone the repo
 ```bash
 git clone https://github.com/<your-username>/ai-test-framework.git
-cd ai-test-framework
+cd ai-test-framework```
 
 ### 2. Create Virtual Environment
 ```bash
@@ -68,12 +68,12 @@ python -m venv venv
 source venv/Scripts/activate
 
 # Windows (PowerShell)
-.\venv\Scripts\Activate.ps1
+.\venv\Scripts\Activate.ps1```
 
 ### 3. Install Dependencies
 ```bash
 pip install -r requirements.txt
-python -m playwright install
+python -m playwright install```
 
 ### 4. Add the API key in the .env file
 ### 5. Run tests with the following test sample

@@ -38,4 +38,4 @@ Instead of writing brittle test scripts, users can provide test scenarios in pla
 
 ### 📌 System Flow
 
-![AI Test Automation Architecture](./assets/Architecture_AI Test.png)
+![AI Test Automation Architecture](./assets/Architecture.png)
